@@ -1,0 +1,162 @@
+body {
+    background-color: #eadef1;
+}
+
+#info > div > div > label {
+    font-size: 20px;
+}
+
+#info > div > div > input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: rgb(218, 218, 218);
+    border-radius: 10px;
+}
+
+::placeholder {
+    color: rgb(78, 78, 78);
+    opacity: 1;
+}
+
+#title {
+    width: 50%;
+    background-color: #fff;
+    padding:20px 0;
+    border-radius: 20px;
+    margin: 10px auto;
+    border: 2px solid white;
+    border-top: 15px solid rgb(105, 11, 228);
+}
+
+#title > div {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#title > div > h1 {
+    font-size: 35px;
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#lol {
+    width: 50%;
+    background-color: #fff;
+    padding:20px 0;
+    border-radius: 20px;
+    margin: 10px auto;
+    border: 2px solid white;
+}
+
+#namediv {
+    width: 50%;
+    background-color: #fff;
+    padding:20px 0;
+    border-radius: 20px;
+    margin: 10px auto;
+    border: 2px solid white;
+}
+
+#namediv > div{
+    width: 30%;
+    margin: 0 20px;
+}
+
+#rollnumberdiv {
+    width: 50%;
+    background-color: #fff;
+    padding:20px 0;
+    border-radius: 20px;
+    margin: 10px auto;
+    border: 2px solid white;
+}
+
+#rollnumberdiv>div {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#emailiddiv {
+    width: 50%;
+    background-color: #fff;
+    padding:20px 0;
+    border-radius: 20px;
+    margin: 10px auto;
+    border: 2px solid white;
+}
+
+#emailiddiv>div {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#questions>div>div>label {
+    font-size: 20px;
+}
+
+#questiononediv {
+    width: 50%;
+    background-color: #fff;
+    padding:20px 0;
+    border-radius: 20px;
+    margin: 10px auto;
+    border: 2px solid white;
+}
+
+#questiononediv>div {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#questiontwodiv {
+    width: 50%;
+    background-color: #fff;
+    padding: 20px 0;
+    border-radius: 20px;
+    margin: 10px auto;
+    border: 2px solid white;
+}
+
+#questiontwodiv>div {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#questionthreediv {
+    width: 50%;
+    background-color: #fff;
+    padding: 20px 0;
+    border-radius: 20px;
+    margin: 10px auto;
+    border: 2px solid white;
+}
+
+#questionthreediv>div {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#image>img {
+    width: 100%;
+}
+
+#submit {
+    border: none;
+    width: 50%;
+    text-decoration: none;
+    margin: 0 auto;
+}
+
+#submit>div>input {
+    color: rgb(255, 255, 255);
+    background-color: rgb(118, 32, 216);
+    border-radius: 5px;
+    padding: 7px;
+    cursor: grab;
+    font-weight: 300;
+    font-size: 15px;
+    width: 15%;
+}
